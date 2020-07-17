@@ -1,8 +1,11 @@
 #include <SFML/Graphics.hpp>
 
+#define WINWIDTH  500
+#define WINHEIGHT 500
+
 int main(int argc, char const *argv[])
 {
-    sf::RenderWindow window(sf::VideoMode(500, 500), "Window");
+    sf::RenderWindow window(sf::VideoMode(WINWIDTH, WINHEIGHT), "Window");
 
     while (window.isOpen())
     {
