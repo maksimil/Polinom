@@ -1,3 +1,3 @@
 # Polinom
 
-Thats not a nruh moment, thats a bruh minute
+Thats not a bruh moment, thats a bruh minute
